@@ -1,15 +1,15 @@
 {
   "title": "Cabo Verde DataHub",
-  "description": "You can use this template repository to bootstrap your own DataHub Cloud site.",
-  "logo": "https://datahub.io/datahub-cube.svg",
+  "description": "Explore a curated collection of Cabo Verde specific  datasets.",
+  "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg",
   "navbarTitle": {
-    "logo": "https://datahub.io/datahub-cube.svg",
+    "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg",
     "text": "Cabo Verde DataHub"
   },
   "author": {
     "name": "Cabo Verde DataHub",
     "url": "https://alvaro-lima.com/",
-    "logo": "https://datahub.io/datahub-cube.svg"
+    "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg"
   },
   "navLinks": [
     { "href": "/docs", "name": "Docs" }
