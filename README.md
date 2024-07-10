@@ -1,21 +1,21 @@
 ---
 datapackage:
-  title: Welcome to your template dataset page!
-  description: This is a template for publishing your dataset with Datahub Cloud.
+  title: Cabo Verde Data Portal
+  description: Explore a curated collection of Cabo Verde specific datasets!
   created: 2024-01-01
   updated: 2024-01-31
   licenses:
   - path: http://opendatacommons.org/licenses/pddl/
     title: Open Data Commons Public Domain Dedication and License v1.0
   sources:
-  - path: http://link.to/data/source
+  - path: https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv
     title: Link to data source
   resources:
-  - name: c02-per-decade
-    title: C02 PPM per decade
-    description: C02 PPM per decade
-    lastModified: 2024-01-15
-    path: data.csv
+  - name: bvc_quotes_history
+    title: Bolsa de Valores of Cabo Verde quotes History
+    description: Bolsa de Valores of Cabo Verde quotes History
+    lastModified: 2024-07-01
+    path: https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv
 ---
 
 Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. 
