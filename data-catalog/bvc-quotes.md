@@ -12,6 +12,6 @@ datapackage:
     title: Bolsa de Valores de Cabo Verde quotes
     description: Historical quotes from the Bolsa de Valores de Cabo Verde (BVC)
     lastModified: 2024-07-10
-    path: bvc_quotes_history.csv
+    path: ./data/bvc_quotes_history.csv
 
 ---
