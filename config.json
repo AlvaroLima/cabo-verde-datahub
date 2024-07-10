@@ -1,15 +1,15 @@
 {
   "title": "Cabo Verde DataHub",
   "description": "Explore a curated collection of Cabo Verde specific  datasets.",
-  "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg",
+  "logo": "https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/c19bf55973f78ee1bf5f2eac07ebfa18c45cae68/resources/analytics-svgrepo-com.svg",
   "navbarTitle": {
-    "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg",
+    "logo": "https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/c19bf55973f78ee1bf5f2eac07ebfa18c45cae68/resources/analytics-svgrepo-com.svg",
     "text": "Cabo Verde DataHub"
   },
   "author": {
     "name": "Cabo Verde DataHub",
     "url": "https://alvaro-lima.com/",
-    "logo": "https://github.com/AlvaroLima/cabo-verde-datahub/blob/main/resources/analytics-svgrepo-com.svg"
+    "logo": "https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/c19bf55973f78ee1bf5f2eac07ebfa18c45cae68/resources/analytics-svgrepo-com.svg"
   },
   "navLinks": [
     { "href": "/docs", "name": "Docs" }
