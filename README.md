@@ -1,7 +1,7 @@
 ---
 title: Cabo Verde DataHub
 description: "Explore a curated collection of Cabo Verde specific  datasets."
-date: 2024-07-10]
+date: 2024-07-10
 ---
 
 ## Recent Posts
