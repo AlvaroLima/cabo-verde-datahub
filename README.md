@@ -13,7 +13,7 @@ date: 2024-07-09
 ## Featured Content
 
 > [!info] Don't forget to check:
-> [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
+> [[data-catalog/#|Cabo Verde Startup Database]]
 
 ---
 
