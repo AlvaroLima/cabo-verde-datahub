@@ -29,3 +29,12 @@ datapackage:
   xAxis="dates"
   yAxis="preco_fecho"
 />
+
+<PlotlyBarChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bca_quotes_history.csv'
+  }}
+  title="BCA Stock Price x Year"
+  xAxis="dates"
+  yAxis="preco_fecho"
+/>
