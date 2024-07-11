@@ -14,7 +14,7 @@ datapackage:
   - name: bvc_quotes_history
     title: Bolsa de Valores de Cabo Verde quotes
     description: Historical quotes from the Bolsa de Valores de Cabo Verde (BVC).
-    lastModified: 2024-07-09
+    lastModified: 2024-07-11
     path: ./data/bvc_quotes_history.csv
   - name: bca_quotes_history
     title: Banco Comercial do Atlântico (BCA) quotes on Bolsa de Valores de Cabo Verde (BVC).
