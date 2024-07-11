@@ -26,6 +26,6 @@ datapackage:
     url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bca_quotes_history.csv'
   }}
   title="BCA Stock Price x Year"
-  xAxis="Date"
-  yAxis="Price"
+  xAxis="dates"
+  yAxis="preco_fecho"
 />
