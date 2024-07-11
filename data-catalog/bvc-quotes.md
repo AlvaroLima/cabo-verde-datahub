@@ -7,6 +7,9 @@ datapackage:
   sources:
   - path: https://bvc.cv/pagina/historico-cotacoes-bvc-62
     title: Link to data source
+  licenses:
+  - path: http://opendatacommons.org/licenses/pddl/
+    title: Open Data Commons Public Domain Dedication and License v1.0
   resources:
   - name: bvc_quotes_history
     title: Bolsa de Valores de Cabo Verde quotes
