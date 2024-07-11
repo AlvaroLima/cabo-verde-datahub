@@ -7,6 +7,9 @@ datapackage:
   sources:
   - path: https://www.ine.cv/sief/
     title: Link to data source
+  licenses:
+  - path: http://opendatacommons.org/licenses/pddl/
+    title: Open Data Commons Public Domain Dedication and License v1.0
   resources:
   - name: sief-2021
     title: Summary of Economic and Financial Indicators - Cabo Verde
