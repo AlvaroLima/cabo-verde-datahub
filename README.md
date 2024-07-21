@@ -13,7 +13,7 @@ date: 2024-07-09
 ## Featured Content
 
 > [!info] Don't forget to check:
-> [[data-catalog/#|Cabo Verde Startup Database]]
+> [[data-catalog/cabo-verde-startup-database|Cabo Verde Startup Database]]
 
 ---
 
