@@ -16,10 +16,5 @@ datapackage:
     description: Historical weather data from Assomada in Cabo Verde, from 1940 to 2024, provided by Open-Meteo. Open-Meteo's Historical Weather API is based on reanalysis datasets and uses a combination of weather station, aircraft, buoy, radar, and satellite observations to create a comprehensive record of past weather conditions. 
     lastModified: 2024-07-04
     path: ./data/open-meteo-Assomada-15.08N23.72W426m.csv
-  - name: open-meteo-Boa-Vista-16.20N22.88W6m
-    title: Historical temperature and rain data from Boa Vista, Cabo Verde
-    description: Historical weather data from Assomada in Cabo Verde, from 1940 to 2024, provided by Open-Meteo. Open-Meteo's Historical Weather API is based on reanalysis datasets and uses a combination of weather station, aircraft, buoy, radar, and satellite observations to create a comprehensive record of past weather conditions. 
-    lastModified: 2024-07-04
-    path: ./data/open-meteo-Boa-Vista-16.20N22.88W6m.csv
 
 ---
