@@ -4,6 +4,12 @@ description: "Explore a curated collection of Cabo Verde specific  datasets."
 date: 2024-07-09
 ---
 
+<div class="animate-gradient dark:from-blue-00 dark:to-blue-1000 rounded-lg bg-gradient-to-r from-blue-700 via-purple-600 to-blue-800 bg-[length:200%_200%] px-6 py-20 text-center text-white dark:bg-gradient-to-r dark:via-purple-800 dark:bg-[length:200%_200%]">
+  <h1 class="mb-4 text-4xl font-bold">Welcome to the Cabo Verde 🇨🇻 Data Hub</h1>
+  <p class="mb-6 text-xl">Explore a curated collection of datasets specific to Cabo Verde, hosted on GitHub.</p>
+</div>
+
+
 ## Recent Posts
 
 - [[data-catalog/bvc-quotes|Historical stock price data from Bolsa de Valores de Cabo Verde]]
