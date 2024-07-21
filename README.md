@@ -1,7 +1,5 @@
 ---
-title: Cabo Verde DataHub
-description: "Explore a curated collection of Cabo Verde specific  datasets."
-date: 2024-07-09
+
 ---
 
 <div class="animate-gradient dark:from-blue-00 dark:to-blue-1000 rounded-lg bg-gradient-to-r from-blue-700 via-purple-600 to-blue-800 bg-[length:200%_200%] px-6 py-20 text-center text-white dark:bg-gradient-to-r dark:via-purple-800 dark:bg-[length:200%_200%]">
