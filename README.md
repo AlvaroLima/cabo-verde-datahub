@@ -8,7 +8,7 @@
 </div>
 
 
-## Recent Posts
+
 
 - [[data-catalog/bvc-quotes|Historical stock price data from Bolsa de Valores de Cabo Verde]]
 - [[data-catalog/historical-weather-data-cv|Historical weather data from Cabo Verde]]
