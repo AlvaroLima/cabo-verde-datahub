@@ -15,11 +15,6 @@
 | [Historical Weather data From Cabo Verde](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/historical-weather-data-cv) | Historical weather data from Cabo Verde. Weather data by Open-Meteo.com | 2024-07-04 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/historical-weather-data-cv) |
 | [SIEF by INE](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/sief-cv) | A comprehensive collection of economic and financial indicators provided by the Department of Economic and Business Statistics (DEEE). | 2022-12-01 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/sief-cv) |
 
-## Featured Content
-
-> [!info] Don't forget to check:
-> [[data-catalog/cabo-verde-startup-database|Cabo Verde Startup Database]]
-
 ---
 
 
