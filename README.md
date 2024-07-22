@@ -8,8 +8,6 @@
 </div>
 
 
-## Catalog
-
 | Name | Description | Last updated |  Link   |
 | --- | --- | --- | --- |
 | [Cabo Verde Startup Database](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/cabo-verde-startup-database) | Detailed CSV file that showcases the startup ecosystem in Cabo Verde. | 2024-07-12 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/cabo-verde-startup-database) |
