@@ -12,10 +12,10 @@
 
 | Name | Description | Last updated |  Link   |
 | --- | --- | --- | --- |
-| Cabo Verde Startup Database | Detailed CSV file that showcases the startup ecosystem in Cabo Verde. | 1 day ago | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/cabo-verde-startup-database) |
-| AlvaroLima/bvc-quotes | Historical stock price data from Bolsa de Valores de Cabo Verde | 1 week ago | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/bvc-quotes) |
-| Historical Weather data From Cabo Verde | Historical weather data from Cabo Verde. Weather data by Open-Meteo.com | 2 weeks ago | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/historical-weather-data-cv) |
-| SIEF by INE | A comprehensive collection of economic and financial indicators provided by the Department of Economic and Business Statistics (DEEE). | 2 weeks ago | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/sief-cv) |
+| Cabo Verde Startup Database | Detailed CSV file that showcases the startup ecosystem in Cabo Verde. | 2024-07-12 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/cabo-verde-startup-database) |
+| BVC Quotes | Historical stock price data from Bolsa de Valores de Cabo Verde | 2024-07-11 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/bvc-quotes) |
+| Historical Weather data From Cabo Verde | Historical weather data from Cabo Verde. Weather data by Open-Meteo.com | 2024-07-04 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/historical-weather-data-cv) |
+| SIEF by INE | A comprehensive collection of economic and financial indicators provided by the Department of Economic and Business Statistics (DEEE). | 2022-12-01 | [explore](https://datahub.io/@AlvaroLima/cabo-verde-datahub/data-catalog/sief-cv) |
 
 ## Featured Content
 
