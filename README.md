@@ -8,7 +8,7 @@
 </div>
 
 
-## Recent Posts
+## Catalog
 
 | Name | Description | Last updated |  Link   |
 | --- | --- | --- | --- |
