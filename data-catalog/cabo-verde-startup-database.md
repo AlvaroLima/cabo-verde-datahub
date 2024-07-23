@@ -22,9 +22,8 @@ datapackage:
 
 <PlotlyBarChart
   data={{
-    url: 'https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv'
+    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-startup-databse/main/cabo-verde-startup-database.csv'
   }}
-  title="Apple Stock Prices"
-  xAxis="Date"
-  yAxis="AAPL.Open"
+  title="Cabo Verde Startup Database"
+  xAxis="Localização HQ (Ilha)"
 />
