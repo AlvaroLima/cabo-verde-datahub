@@ -19,12 +19,26 @@ datapackage:
 
 ---
 
+# Cabo Verde Startup Database Visualizations
+
+## Number of Startups by Island
 
 <PlotlyBarChart
   data={{
     url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-startup-databse/main/cabo-verde-startup-database.csv'
   }}
-  title="Cabo Verde Startup Database"
+  title="Number of Startups by Island"
   xAxis="Localização HQ (Ilha)"
+  yAxis="StartUp Name"
+/>
+
+## Percentage Distribution of Startups by Sector
+
+<PlotlyBarChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-startup-databse/main/cabo-verde-startup-database.csv'
+  }}
+  title="Percentage Distribution of Startups by Sector"
+  xAxis="Sector"
   yAxis="StartUp Name"
 />
