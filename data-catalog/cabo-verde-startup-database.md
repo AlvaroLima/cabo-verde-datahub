@@ -18,3 +18,13 @@ datapackage:
     path: ./data/cabo-verde-startup-databse.csv
 
 ---
+
+
+<PlotlyBarChart
+  data={{
+    url: 'https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv'
+  }}
+  title="Apple Stock Prices"
+  xAxis="Date"
+  yAxis="AAPL.Open"
+/>
