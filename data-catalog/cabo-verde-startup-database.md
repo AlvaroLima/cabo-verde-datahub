@@ -25,7 +25,7 @@ datapackage:
 
 <PlotlyBarChart
   data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-startup-databse/main/cabo-verde-startup-database.csv'
+    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/data-catalog/data/cabo-verde-startup-database.csv'
   }}
   title="Number of Startups by Island"
   xAxis="Localização HQ (Ilha)"
@@ -36,7 +36,7 @@ datapackage:
 
 <PlotlyBarChart
   data={{
-    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-startup-databse/main/cabo-verde-startup-database.csv'
+    url: 'https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/data-catalog/data/cabo-verde-startup-database.csv'
   }}
   title="Percentage Distribution of Startups by Core Business"
   xAxis="Core Business"
