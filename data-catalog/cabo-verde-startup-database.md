@@ -26,5 +26,5 @@ datapackage:
   }}
   title="Cabo Verde Startup Database"
   xAxis="Localização HQ (Ilha)"
-  yAxis="StartUp Name"
+  yAxis="Name"
 />
