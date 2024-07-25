@@ -2,7 +2,7 @@
 
 ---
 
-<div class="animate-gradient dark:from-blue-00 dark:to-blue-1000 rounded-lg bg-gradient-to-r from-blue-700 via-purple-600 to-blue-800 bg-[length:200%_200%] px-6 py-20 text-center text-white dark:bg-gradient-to-r dark:via-purple-800 dark:bg-[length:200%_200%] shadow-md">
+<div class="animate-gradient dark:from-blue-00 dark:to-blue-1000 rounded-lg bg-gradient-to-r from-blue-700 via-purple-600 to-blue-800 bg-[length:200%_200%] px-6 py-20 text-center text-white dark:bg-gradient-to-r dark:via-purple-800 dark:bg-[length:200%_200%] shadow-xl">
   <p class="mb-4 text-4xl font-bold">Welcome to the Cabo Verde 🇨🇻 DataHub</p>
   <p class="mb-6 text-xl">Explore a curated collection of datasets specific to Cabo Verde, hosted on GitHub.</p>
 </div>
