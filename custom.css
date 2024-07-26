@@ -556,3 +556,13 @@ video {
 .ring-gray-900\/5 {
   --tw-ring-color: rgb(17 24 39 / 0.05);
 }
+
+.text-secondary {
+  --tw-text-opacity: 1;
+  color: #1050f0;
+}
+
+.hover\:border-secondary:hover {
+  --tw-border-opacity: 1;
+  border-color: #1050f0;
+}
