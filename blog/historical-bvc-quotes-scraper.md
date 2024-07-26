@@ -1,6 +1,6 @@
 # Historical BVC Quotes Scraper
 
-This project is a web scraper designed to extract historical quotes from the Bolsa de Valores de Cabo Verde (BVC). The scraper is implemented in a Jupyter Notebook using BeautifulSoup4 and requests to gather data, and pandas for data manipulation and analysis.
+This is my web scraper designed to extract historical quotes from the Bolsa de Valores de Cabo Verde (BVC) website. The scraper is implemented in a Jupyter Notebook using BeautifulSoup4, requests to gather data and pandas for data manipulation and analysis.
 
 ## Table of Contents
 
@@ -42,6 +42,53 @@ To run the scraper, open the Jupyter Notebook [bvc_scraper.ipynb](https://github
 
 ## Data Storage
 The cleaned data is saved to a CSV file in the data folder for future analysis.
+
+## Download Dataset
+You can download the entire dataset [here](https://r2.datahub.io/clyf18epi0000mc0dblub9man/main/raw/data-catalog/data/bvc_quotes_history.csv)
+
+## Banco Comercial do Atlântico (BCA) stock price overtime
+
+<PlotlyLineChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bca_quotes_history.csv'
+  }}
+  title="BCA Stock Price x Year"
+  xAxis="dates"
+  yAxis="preco_fecho"
+/>
+
+## Caixa Económica de Cabo Verde (CAIXA) stock price overtime
+
+<PlotlyLineChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/caixa_quotes_history.csv'
+  }}
+  title="CAIXA Stock Price x Year"
+  xAxis="dates"
+  yAxis="preco_fecho"
+/>
+
+## Enacol (ENA) stock price overtime
+
+<PlotlyLineChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/ena_quotes_history.csv'
+  }}
+  title="ENA Stock Price x Year"
+  xAxis="dates"
+  yAxis="preco_fecho"
+/>
+
+## Sociedade Cabo-verdiana de Tabacos (SCT)
+
+<PlotlyLineChart
+  data={{
+    url: 'https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/sct_quotes_history.csv'
+  }}
+  title="SCT Stock Price x Year"
+  xAxis="dates"
+  yAxis="preco_fecho"
+/>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
