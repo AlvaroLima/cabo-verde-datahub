@@ -81,14 +81,3 @@ View the [dashboard here](https://public.tableau.com/app/profile/.lvaro.lima/viz
 Check out my design portfolio here [alvaro-lima.com](https://alvaro-lima.com/) .
 
 ** Disclaimer: ** This post is not intended to offer financial advice. It is for informational purposes only, focusing on the technologies used in the project.
-
-
-<Iframe
-  data={{
-    url: 'https://app.powerbi.com/view?r=eyJrIjoiYzBmN2Q2MzYtYzE3MS00ODkxLWE5OWMtZTQ2MjBlMDljMDk4IiwidCI6Ijk1M2IwZjgzLTFjZTYtNDVjMy04MmM5LTFkODQ3ZTM3MjMzOSIsImMiOjh9'
-  }}
-  style={{
-    height: '100%',
-    width: '100%'
-  }}
-/>
