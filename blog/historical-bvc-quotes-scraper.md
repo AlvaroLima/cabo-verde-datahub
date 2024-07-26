@@ -46,10 +46,6 @@ The cleaned data is saved to a CSV file in the data folder for future analysis.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Scraped Data Table 
-
-<FlatUiTable url="https://raw.githubusercontent.com/AlvaroLima/bvc-quotes/main/data/bvc_quotes_history.csv" />
-
 ## Unlocking Cape Verde Stock Market Insights with Python and Tableau: An Ongoing Journey
 
 Since January 2022, I've been leveraging Python and Tableau to scrape and analyze almost 20 years of data from the Cape Verdean stock market. This ongoing project has been updated weekly to ensure the most current insights, helping to visualize trends and make informed investment decisions.
@@ -81,3 +77,14 @@ View the [dashboard here](https://public.tableau.com/app/profile/.lvaro.lima/viz
 Check out my design portfolio here [alvaro-lima.com](https://alvaro-lima.com/) .
 
 ** Disclaimer: ** This post is not intended to offer financial advice. It is for informational purposes only, focusing on the technologies used in the project.
+
+
+<Iframe
+  data={{
+    url: 'https://public.tableau.com/app/profile/.lvaro.lima/viz/HistricodeCotaesBVC/Dashboard1'
+  }}
+  style={{
+    height: '600px',
+    width: '100%'
+  }}
+/>
