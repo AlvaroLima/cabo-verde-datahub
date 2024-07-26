@@ -81,7 +81,7 @@ Check out my design portfolio here [alvaro-lima.com](https://alvaro-lima.com/) .
 
 <Iframe
   data={{
-    url: 'https://public.tableau.com/app/profile/.lvaro.lima/viz/HistricodeCotaesBVC/Dashboard1'
+    url: 'https://public.tableau.com/views/HistricodeCotaesBVC/Dashboard1'
   }}
   style={{
     height: '600px',
