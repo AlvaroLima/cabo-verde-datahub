@@ -2,17 +2,6 @@
 
 This is my web scraper designed to extract historical quotes from the Bolsa de Valores de Cabo Verde (BVC) website. The scraper is implemented in a Jupyter Notebook using BeautifulSoup4, requests to gather data and pandas for data manipulation and analysis.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Storage](#data-storage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Scraped Data Table](#scraped-data-table)
-- [Unlocking Cape Verde's Stock Market Insights with Python and Tableau: An Ongoing Journey](#unlocking-cape-verde-stock-market-insights-with-python-and-tableau-an-ongoing-journey)
-
-
 ## Installation
 
 1. Clone the repository:
