@@ -73,7 +73,8 @@ Stay tuned for Part Two, where I will discuss how is used this information to ma
 
 Feel free to check out the dashboard and explore the insights it offers and I I'll be happy to answer any questions you may have in the comments.
 
-View the [dashboard here](https://public.tableau.com/app/profile/.lvaro.lima/viz/HistricodeCotaesBVC/Dashboard1)\ .
+View the [dashboard here](https://public.tableau.com/app/profile/.lvaro.lima/viz/HistricodeCotaesBVC/Dashboard1)
+
 Check out my design portfolio here [alvaro-lima.com](https://alvaro-lima.com/) .
 
 ![Histórico de Cotações BVC por Álvaro Lima](https://media.licdn.com/dms/image/D4E22AQGjscz-2NbnqQ/feedshare-shrink_2048_1536/0/1719231187944?e=1724889600&v=beta&t=3O1Wwjl4XazKmkQZmyzcKmozv_kEtVWbfQH7iAd0kYg)
