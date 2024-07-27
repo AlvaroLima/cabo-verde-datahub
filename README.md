@@ -21,7 +21,7 @@
 <div class="grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
         <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
-            <img class="rounded-t-lg mt-0" src="https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/resources/bvc-dashboard.jpg" alt="" />
+            <img class="rounded-t-lg mt-0 mb-0" src="https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/resources/bvc-dashboard.jpg" alt="" />
         </a>
         <div class="p-5">
             <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
@@ -38,7 +38,7 @@
     </div>
    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
         <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde">
-            <img class="rounded-t-lg mt-0" src="https://framerusercontent.com/images/oWl96Rn923IBUgtfTyQ5QmI8.jpg" alt="" />
+            <img class="rounded-t-lg mt-0 mb-0" src="https://framerusercontent.com/images/oWl96Rn923IBUgtfTyQ5QmI8.jpg" alt="" />
         </a>
         <div class="p-5">
             <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde">
