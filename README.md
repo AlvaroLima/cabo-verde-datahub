@@ -17,5 +17,44 @@
 
 ---
 
+<h2>Blog</h2>
+<div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+    <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
+        <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
+            <img class="rounded-t-lg" src="https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/resources/bvc-dashboard.jpg" alt="" />
+        </a>
+        <div class="p-5">
+            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Historical BVC Quotes Scraper</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700">This is my web scraper designed to extract historical quotes from the Bolsa de Valores de Cabo Verde (BVC) website. </p>
+            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
+                Read more
+                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+   <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
+        <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde">
+            <img class="rounded-t-lg" src="https://framerusercontent.com/images/oWl96Rn923IBUgtfTyQ5QmI8.jpg" alt="" />
+        </a>
+        <div class="p-5">
+            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde">
+                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Visualizing Cabo Verde's Air and Sea Transportation Statistics</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-700">Here's an interactive dashboard using Tableau to visualize air and sea transportation statistics in Cabo Verde from 2017 to 2021.</p>
+            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
+                Read more
+                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+
 
 
