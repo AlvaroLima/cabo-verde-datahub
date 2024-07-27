@@ -17,7 +17,7 @@
 
 ---
 
-<h2>Blog</h2>
+<h2>Featured from Blog</h2>
 <div class="grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
         <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
