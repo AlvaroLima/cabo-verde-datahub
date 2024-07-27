@@ -559,12 +559,12 @@ video {
 
 .text-secondary {
   --tw-text-opacity: 1;
-  color: #1050f0;
+  color: #1050f0 !important;
 }
 
 .hover\:border-secondary:hover {
   --tw-border-opacity: 1;
-  border-color: #1050f0;
+  border-color: #1050f0 !important;
 } 
 
 .mt-0 {
