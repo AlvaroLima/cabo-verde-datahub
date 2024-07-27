@@ -28,11 +28,11 @@
                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Historical BVC Quotes Scraper</h5>
             </a>
             <p class="mb-3 font-normal text-gray-700">This is my web scraper designed to extract historical quotes from the Bolsa de Valores de Cabo Verde (BVC) website. </p>
-            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
-                Read more
-                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                </svg>
+            <a class="inline-block text-[#6366F1] no-underline hover:underline" href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
+              <div class="flex items-center space-x-1">
+                <span>Read more</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="inline h-4 w-4"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd"></path></svg>
+              </div>
             </a>
         </div>
     </div>
@@ -45,11 +45,11 @@
                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">Visualizing Cabo Verde's Air and Sea Transportation Statistics</h5>
             </a>
             <p class="mb-3 font-normal text-gray-700">Here's an interactive dashboard using Tableau to visualize air and sea transportation statistics in Cabo Verde from 2017 to 2021.</p>
-            <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde" class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
-                Read more
-                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                </svg>
+            <a class="inline-block text-[#6366F1] no-underline hover:underline" href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/estatisticas-de-transporte-aereo-e-maritimo-em-cabo-verde">
+              <div class="flex items-center space-x-1">
+                <span>Read more</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="inline h-4 w-4"><path fill-rule="evenodd" d="M3 10a.75.75 0 01.75-.75h10.638L10.23 5.29a.75.75 0 111.04-1.08l5.5 5.25a.75.75 0 010 1.08l-5.5 5.25a.75.75 0 11-1.04-1.08l4.158-3.96H3.75A.75.75 0 013 10z" clip-rule="evenodd"></path></svg>
+              </div>
             </a>
         </div>
     </div>
