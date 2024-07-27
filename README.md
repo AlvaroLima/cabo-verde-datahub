@@ -18,7 +18,7 @@
 ---
 
 <h2>Blog</h2>
-<div class="grid gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+<div class="grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2">
     <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow">
         <a href="https://datahub.io/@AlvaroLima/cabo-verde-datahub/blog/historical-bvc-quotes-scraper">
             <img class="rounded-t-lg" src="https://raw.githubusercontent.com/AlvaroLima/cabo-verde-datahub/main/resources/bvc-dashboard.jpg" alt="" />
